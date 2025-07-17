@@ -1,3 +1,3 @@
-```
-class person
+```php
+class Person
 ```
